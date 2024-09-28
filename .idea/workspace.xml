@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="75ac7cf5-2b84-49d4-9d42-19b8688846de" name="Changes" comment="" />
+    <list default="true" id="75ac7cf5-2b84-49d4-9d42-19b8688846de" name="Changes" comment="Start of Project">
+      <change beforePath="$PROJECT_DIR$/Campsite_Messaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Campsite_Messaging.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pineappleboy187"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pineappleboy187/CampsiteMessaging.git",
+    "accountId": "dd81a829-6341-45fb-a4b9-3b6a2ab456f1"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -21,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Campsite_Messaging.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -41,6 +66,35 @@
       <option name="presentableId" value="Default" />
       <updated>1727502780259</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start of Project">
+      <option name="closed" value="true" />
+      <created>1727502794142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727502794142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Start of Project">
+      <option name="closed" value="true" />
+      <created>1727502983034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727502983034</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Start of Project">
+      <option name="closed" value="true" />
+      <created>1727503219233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727503219233</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start of Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start of Project" />
   </component>
 </project>
